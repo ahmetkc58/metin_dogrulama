@@ -5,7 +5,7 @@ Bu proje, bir ekran görüntüsünden belirli bir metni otomatik olarak algılay
 
 ## Amaç
 
-Belirtilen bir görsel içerisinden (örneğin bir ekran görüntüsü) "Save successful" metninin bulunup bulunmadığını kontrol eder. Özellikle yazılım testlerinde veya otomasyon işlemlerinde çıktı doğrulama için kullanılabilir.
+Belirtilen bir görsel içerisinden (örneğin bir ekran görüntüsü) "Save successful" gibi  metinlerin bulunup bulunmadığını kontrol eder. Özellikle yazılım testlerinde veya otomasyon işlemlerinde çıktı doğrulama için kullanılabilir.
 
 ## Çalışma Prensibi
 
